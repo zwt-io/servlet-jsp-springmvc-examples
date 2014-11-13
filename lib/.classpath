@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="spring-beans-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-context-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-core-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-expression-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="spring-web-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
